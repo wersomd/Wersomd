@@ -75,7 +75,7 @@
         <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
     </a>
 </p>
-<h3 align="left">Mobile Devloping: </h3>
+<h3 align="left">Mobile Developing: </h3>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
